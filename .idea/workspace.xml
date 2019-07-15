@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f4bda5c-af89-4841-be5f-13d8a55557c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GetTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetTime.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +16,7 @@
         <entry file="file://$PROJECT_DIR$/GetTime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -158,12 +158,12 @@
       <workItem from="1562832390061" duration="5059000" />
       <workItem from="1562898720711" duration="812000" />
       <workItem from="1562900940789" duration="17527000" />
-      <workItem from="1563169913192" duration="5937000" />
+      <workItem from="1563169913192" duration="6021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30794000" />
+    <option name="totallyTimeSpent" value="30878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="757" extended-state="0" />
@@ -287,6 +287,7 @@
     <entry file="file://$PROJECT_DIR$/GetTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>

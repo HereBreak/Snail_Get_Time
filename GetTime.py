@@ -1,4 +1,4 @@
-
+# coding=utf-8
 import uiautomator2 as u2
 from time import sleep
 import os
